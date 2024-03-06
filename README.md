@@ -20,14 +20,14 @@ git clone <repository-url>
 cd testproject
 ```
 
-3. **Edit the Collaborators.txt File**: Open the `Collaborators.txt` file in your preferred text editor and add your name to the list.
+3. **Edit the Collaborators.txt File**: Open the `writename.txt` file in your preferred text editor and add your name to the list.
 
-4. **Save the Changes**: Save the changes to the `Collaborators.txt` file.
+4. **Save the Changes**: Save the changes to the `writename.txt` file.
 
 5. **Add and Commit Your Changes**: Use the following commands to stage and commit your changes:
 ```
-git add Collaborators.txt
-git commit -m "Add [Your Name] to Collaborators"
+git add writename.txt
+git commit -m "Added my name [Your Name] to the writename.txt file"
 ```
 
 6. **Push Changes to the Repository**: Finally, push your changes to the repository:
